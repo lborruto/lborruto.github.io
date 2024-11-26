@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Luca
 url: https://lborruto.github.io
 paginate: 1
 baseurl: ""
@@ -28,7 +28,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+ga_analytics: G-VVVLL6T57Z
 
 # Specify the author for blog posts
 author:
@@ -41,8 +41,6 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Home
-    url: /
   - title: About
     url: /about
   - title: Projects
