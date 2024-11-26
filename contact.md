@@ -4,11 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap.min.css"
-/>
-
 # Contact Me
 
 I'm always open to discussing new projects or opportunities. Feel free to reach out!
@@ -21,58 +16,79 @@ I'm always open to discussing new projects or opportunities. Feel free to reach 
 
 ## Contact Form
 
-<div class="container mt-4">
-  <form
-    action="https://formspree.io/f/xnnqgjnn"
-    method="POST"
-    class="needs-validation"
-    novalidate
-  >
-    <div class="mb-3">
-      <label for="email" class="form-label">Your Email:</label>
-      <input
-        type="email"
-        class="form-control"
-        id="email"
-        name="email"
-        placeholder="Enter your email"
-        required
-      />
-      <div class="invalid-feedback">Please enter a valid email.</div>
-    </div>
-    <div class="mb-3">
-      <label for="message" class="form-label">Your Message:</label>
-      <textarea
-        class="form-control"
-        id="message"
-        name="message"
-        rows="5"
-        placeholder="Write your message here"
-        required
-      ></textarea>
-      <div class="invalid-feedback">Message cannot be empty.</div>
-    </div>
-    <button type="submit" class="btn btn-primary w-100">Send Message</button>
-  </form>
-</div>
+<form
+  action="https://formspree.io/f/xnnqgjnn"
+  method="POST"
+  class="contact-form"
+>
+  <label>
+    <span>Your Email:</span>
+    <input type="email" name="email" required />
+  </label>
+  <label>
+    <span>Your Message:</span>
+    <textarea name="message" rows="5" required></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form>
 
-<script>
-  // Bootstrap validation script
-  (function () {
-    "use strict";
-    const forms = document.querySelectorAll(".needs-validation");
-    Array.prototype.slice.call(forms).forEach(function (form) {
-      form.addEventListener(
-        "submit",
-        function (event) {
-          if (!form.checkValidity()) {
-            event.preventDefault();
-            event.stopPropagation();
-          }
-          form.classList.add("was-validated");
-        },
-        false
-      );
-    });
-  })();
-</script>
+<style>
+/* Contact Form Styling */
+.contact-form {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: 1px solid #444;
+  border-radius: 8px;
+  background-color: #2c2c2c; /* Matches Dark Poole background */
+  color: #f5f5f5; /* Matches text color */
+  font-family: inherit;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.contact-form span {
+  display: block;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  color: #f5f5f5;
+  background-color: #1e1e1e; /* Dark input box */
+  border: 1px solid #555;
+  border-radius: 5px;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #888;
+  box-shadow: 0 0 5px #888;
+}
+
+.contact-form button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007acc; /* Accent color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+  background-color: #005f99; /* Darker accent on hover */
+}
+</style>
