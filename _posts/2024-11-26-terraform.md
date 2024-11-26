@@ -3,6 +3,12 @@ layout: post
 title: Automating Infrastructure with Terraform
 ---
 
+```plaintext
+░▀█▀░█▀▀░█▀▄░█▀▄░█▀█░█▀▀░█▀█░█▀▄░█▄█
+░░█░░█▀▀░█▀▄░█▀▄░█▀█░█▀▀░█░█░█▀▄░█░█
+░░▀░░▀▀▀░▀░▀░▀░▀░▀░▀░▀░░░▀▀▀░▀░▀░▀░▀
+```
+
 # Automating Infrastructure and Enhancing Security with Terraform: My Projects at Agicap
 
 In the ever-evolving landscape of technology, automation and security are pivotal for efficient and reliable operations. At Agicap, I spearheaded several Terraform-based projects that not only streamlined our infrastructure management but also fortified our security posture. This blog post explores the motivations behind these initiatives, the strategies I employed, and the impactful results we achieved.
