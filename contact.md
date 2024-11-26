@@ -16,15 +16,18 @@ I'm always open to discussing new projects or opportunities. Feel free to reach 
 
 ## Contact Form
 
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="_replyto" required>
-
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-
+<form
+  action="https://formspree.io/f/xnnqgjnn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
