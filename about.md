@@ -1,29 +1,58 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# About Me
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello! I'm Luca Borruto, an IT System Administrator, IT Project Manager, and Freelance Consultant based in Lyon, France. I have a strong passion for Terraform and specialize in building and managing scalable infrastructure solutions.
 
-There are currently two themes built on Poole:
+## Professional Summary
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+- **IT System Administrator:** Managing and maintaining IT systems to ensure optimal performance.
+- **IT Project Manager:** Leading projects from inception to completion, ensuring timely delivery and quality.
+- **Freelance Consultant:** Providing expert advice and solutions to diverse clients.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Technical Expertise
 
-## Setup
+- **Platforms and Tools:** Azure, GCP, VMware ESX, Kubernetes
+- **Scripting:** Shell, Python, Powershell
+- **Infrastructure:** Debian, CentOS, Terraform, Intune
+- **Security and IDP:** HashiCorp Vault, Okta
+- **Version Control:** Git
 
-Some fun facts about the setup of this project include:
+## Personal Interests
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+When I'm not managing IT infrastructures, I enjoy exploring new technologies, contributing to open-source projects, and continuously enhancing my skills in cloud computing and automation.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+# My Skills
 
-Thanks for reading!
+## Platforms and Tools
+
+- Azure
+- GCP
+- VMware ESX
+- Kubernetes
+
+## Scripting
+
+- Shell
+- Python
+- Powershell
+
+## Infrastructure
+
+- Debian
+- CentOS
+- Terraform
+- Intune
+
+## Security and IDP
+
+- HashiCorp Vault
+- Okta
+
+## Version Control
+
+- Git

@@ -32,17 +32,20 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Luca Borruto
+  url: https://luca-borruto.com
+  email: luca.borruto@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
+  - title: Home
+    url: /
   - title: About
     url: /about
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
