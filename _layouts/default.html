@@ -3,13 +3,6 @@
 {% include head.html %}
 
 <body>
-  <!-- Theme Toggle Button -->
-  <div id="theme-toggle">
-    <button class="toggle-theme">
-      <span class="icon">🌙</span>
-    </button>
-  </div>
-
   <div class="container content">
     <header class="masthead">
       <h3 class="masthead-title">
@@ -60,54 +53,6 @@
     ga("send", "pageview");
   </script>
   {% endif %}
-
-  <!-- Theme Toggle Script -->
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const toggleButton = document.querySelector(".toggle-theme");
-      const icon = toggleButton.querySelector(".icon");
-
-      // Check for saved user preference
-      const savedTheme = localStorage.getItem("theme");
-      if (savedTheme) {
-        document.documentElement.setAttribute("data-theme", savedTheme);
-        icon.textContent = savedTheme === "light-poole" ? "🌞" : "🌙";
-      } else {
-        document.documentElement.setAttribute("data-theme", "dark-poole"); // Default to dark
-      }
-
-      // Toggle theme on click
-      toggleButton.addEventListener("click", () => {
-        const currentTheme = document.documentElement.getAttribute("data-theme");
-        const newTheme = currentTheme === "dark-poole" ? "light-poole" : "dark-poole";
-        document.documentElement.setAttribute("data-theme", newTheme);
-        localStorage.setItem("theme", newTheme);
-        icon.textContent = newTheme === "light-poole" ? "🌞" : "🌙";
-      });
-    });
-  </script>
-
-  <style>
-    /* Theme Toggle Button Styling */
-    #theme-toggle {
-      position: fixed;
-      top: 1rem;
-      right: 1rem;
-      z-index: 1000;
-    }
-
-    .toggle-theme {
-      background: none;
-      border: none;
-      color: inherit;
-      font-size: 1.5rem;
-      cursor: pointer;
-    }
-
-    .toggle-theme .icon {
-      transition: color 0.3s ease;
-    }
-  </style>
 </body>
 
 </html>
