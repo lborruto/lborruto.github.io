@@ -1,5 +1,5 @@
 # Setup
-title: Luca
+title: luca@sysadmin
 url: https://lborruto.github.io
 paginate: 1
 baseurl: ""
@@ -41,8 +41,6 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: About
-    url: /about
   - title: Projects
     url: /projects
   - title: Contact

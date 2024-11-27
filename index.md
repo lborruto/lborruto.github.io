@@ -5,7 +5,7 @@ title: Welcome
 
 # 👋 Welcome to My Page
 
-**User:** `luca@sysadmin:~$`
+`luca@sysadmin:~$`
 
 ---
 
@@ -59,4 +59,4 @@ You can find all my recent projects in the [Projects Section](/projects/).
 
 ---
 
-**User:** `luca@sysadmin:~$ exit`
+`luca@sysadmin:~$ exit`
