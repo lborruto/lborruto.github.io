@@ -19,30 +19,30 @@ I bridge the gap between technical solutions and project execution to deliver me
 
 ## 🛠️ Services I Provide
 
-- **🔧 IT System Administration**: Proactive system monitoring, troubleshooting, and optimization.
-- **📋 Project Management**: End-to-end delivery of IT projects, aligning technology with business goals.
-- **☁️ Cloud Infrastructure**: Scalable solutions with **AWS**, **Azure**, and **Google Cloud**.
-- **⚙️ Automation**: Streamlining processes with **Terraform**, **Ansible**, and scripting.
+- **IT System Administration**: Proactive system monitoring, troubleshooting, and optimization.
+- **Project Management**: End-to-end delivery of IT projects, aligning technology with business goals.
+- **Cloud Infrastructure**: Scalable solutions with **AWS**, **Azure**, and **Google Cloud**.
+- **Automation**: Streamlining processes with **Terraform**, **Ansible**, and scripting.
 
 ---
 
 ## 🤝 Why Work with Me?
 
-- ✅ Proven track record of **delivering projects on time and within budget**.
-- ✅ Expertise in **modern DevOps practices** and tools.
-- ✅ Strong communicator, ensuring clear expectations and smooth collaboration.
-- ✅ Adaptable, working effectively with both startups and established enterprises.
+- Proven track record of **delivering projects on time and within budget**.
+- Expertise in **modern DevOps practices** and tools.
+- Strong communicator, ensuring clear expectations and smooth collaboration.
+- Adaptable, working effectively with both startups and established enterprises.
 
 ---
 
 ## 🧰 Technical Skills
 
-- **☁️ Cloud Platforms**: AWS, Azure, Google Cloud
-- **🤖 Automation Tools**: Terraform, Ansible
-- **🖥️ Virtualization**: VMware, Proxmox
-- **📊 Monitoring**: Prometheus, Grafana, ELK Stack
-- **💻 Scripting**: Bash, Python, PowerShell
-- **🛠️ Project Tools**: Jira, Trello, Confluence
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Automation Tools**: Terraform, Ansible
+- **Virtualization**: VMware, Proxmox
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Scripting**: Bash, Python, PowerShell
+- **Project Tools**: Jira, Trello, Confluence
 
 ---
 

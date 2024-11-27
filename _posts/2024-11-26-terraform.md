@@ -9,7 +9,7 @@ title: Automating Infrastructure with Terraform
 ░░▀░░▀▀▀░▀░▀░▀░▀░▀░▀░▀░░░▀▀▀░▀░▀░▀░▀
 ```
 
-# **🤖 Automating Infrastructure and Enhancing Security with Terraform: My Projects at Agicap**
+# **🤖 Automating Infrastructure with Terraform**
 
 ---
 
@@ -21,15 +21,15 @@ In the ever-evolving landscape of technology, **automation** and **security** ar
 
 Managing complex infrastructures manually can be time-consuming, error-prone, and difficult to scale. Terraform, with its **Infrastructure as Code (IaC)** approach, offers a powerful solution to automate and manage infrastructure reliably. By codifying our infrastructure, we achieved:
 
-- **🛠️ Consistency:** Reliable deployments across environments.
-- **📜 Reproducibility:** Every infrastructure change is documented and repeatable.
-- **🤝 Collaboration:** Teams work together seamlessly with a shared codebase.
+- **Consistency:** Reliable deployments across environments.
+- **Reproducibility:** Every infrastructure change is documented and repeatable.
+- **Collaboration:** Teams work together seamlessly with a shared codebase.
 
 Additionally, integrating Terraform with our **security tools** ensured that our infrastructure adhered to the highest standards.
 
 ---
 
-## **🚀 Projects@Agicap: Transforming Infrastructure Management**
+## **Projects@Agicap: Transforming Infrastructure Management**
 
 ### **1️⃣ Efficient Management of Azure Resources**
 
@@ -40,9 +40,9 @@ Agicap's operations spanned multiple regions, requiring a robust and scalable cl
 I developed comprehensive **Terraform modules** tailored for Azure, enabling automated deployment and management of resources such as virtual networks, storage accounts, and compute instances. These modules encapsulated best practices, ensuring that deployments were efficient and aligned with organizational standards.
 
 **📈 Results:**  
-- **🌍 Scalability:** Rapidly provisioned Azure resources across different environments and regions with minimal effort.
-- **⚙️ Consistency:** Standardized configurations reduced discrepancies and enhanced reliability.
-- **⏱️ Efficiency:** Significant reduction in deployment times, freeing up the team to focus on core objectives.
+- **Scalability:** Rapidly provisioned Azure resources across different environments and regions with minimal effort.
+- **Consistency:** Standardized configurations reduced discrepancies and enhanced reliability.
+- **⏱Efficiency:** Significant reduction in deployment times, freeing up the team to focus on core objectives.
 
 ---
 
@@ -55,9 +55,9 @@ Managing sensitive information like API keys, passwords, and certificates secure
 Using Terraform, I integrated **HashiCorp Vault** into our infrastructure. This setup facilitated secure storage, access, and management of secrets. By automating Vault's deployment and configuration, we ensured the highest levels of security.
 
 **📈 Results:**  
-- **🔒 Enhanced Security:** Centralized and encrypted storage of sensitive data minimized the risk of breaches.
-- **🤖 Automated Management:** Simplified provisioning and maintenance reduced manual intervention.
-- **✅ Compliance:** Adhered to security standards and best practices, bolstering our overall framework.
+- **Enhanced Security:** Centralized and encrypted storage of sensitive data minimized the risk of breaches.
+- **Automated Management:** Simplified provisioning and maintenance reduced manual intervention.
+- **Compliance:** Adhered to security standards and best practices, bolstering our overall framework.
 
 ---
 
@@ -70,9 +70,9 @@ As Agicap scaled, managing user identities and application access manually was i
 I automated the integration of **Okta** using Terraform. This included provisioning user accounts, managing group memberships, and configuring application access policies, all codified for reliability and scalability.
 
 **📈 Results:**  
-- **⚡ Efficiency:** Automated processes streamlined onboarding and offboarding.
-- **🔐 Enhanced Security:** Consistent access policies reduced unauthorized access risks.
-- **📊 Scalability:** Easily managed a growing number of users and applications.
+- **Efficiency:** Automated processes streamlined onboarding and offboarding.
+- **Enhanced Security:** Consistent access policies reduced unauthorized access risks.
+- **Scalability:** Easily managed a growing number of users and applications.
 
 ---
 
@@ -85,9 +85,9 @@ With numerous repositories and teams, managing GitHub organizations manually was
 Using Terraform, I streamlined the management of **GitHub organization settings and repositories**. This included automating repository creation, configuring access controls, and enforcing policies.
 
 **📈 Results:**  
-- **⚙️ Consistency:** Standardized repository configurations ensured uniformity across projects.
-- **🔒 Security:** Automated access controls reduced the risk of unauthorized changes and data leaks.
-- **🚀 Productivity:** Reduced administrative overhead, enabling developers to focus on coding.
+- **Consistency:** Standardized repository configurations ensured uniformity across projects.
+- **Security:** Automated access controls reduced the risk of unauthorized changes and data leaks.
+- **Productivity:** Reduced administrative overhead, enabling developers to focus on coding.
 
 ---
 
@@ -96,10 +96,10 @@ Using Terraform, I streamlined the management of **GitHub organization settings 
 By implementing Terraform across these key areas, we achieved a harmonized and automated infrastructure management system. The benefits extended beyond automation, fostering a culture of collaboration, security, and continuous improvement.
 
 ### **Key Benefits:**
-- **📜 Infrastructure as Code:** Enabled version control, peer reviews, and collaborative enhancements to our infrastructure.
-- **🔁 Reusability:** Developed reusable modules that accelerated deployments and ensured best practices.
-- **📈 Scalability:** Facilitated seamless infrastructure expansion to meet growing business demands.
-- **🔒 Security:** Integrated security best practices, ensuring robust protection against threats.
+- **Infrastructure as Code:** Enabled version control, peer reviews, and collaborative enhancements to our infrastructure.
+- **Reusability:** Developed reusable modules that accelerated deployments and ensured best practices.
+- **Scalability:** Facilitated seamless infrastructure expansion to meet growing business demands.
+- **Security:** Integrated security best practices, ensuring robust protection against threats.
 
 ---
 
