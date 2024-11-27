@@ -5,9 +5,9 @@ title: Automating Infrastructure with Terraform
 
 ![Terraform Ascii](/assets/terraform.png "terraform ascii")
 
-# **🤖 Automating Infrastructure with Terraform**
-
 ---
+
+## **Introduction**
 
 In the ever-evolving landscape of technology, **automation** and **security** are pivotal for efficient and reliable operations. At Agicap, I spearheaded several **Terraform-based projects** that not only streamlined our infrastructure management but also fortified our security posture. This blog post explores the motivations behind these initiatives, the strategies I employed, and the impactful results we achieved.
 
@@ -29,10 +29,10 @@ Additionally, integrating Terraform with our **security tools** ensured that our
 
 ### **1️⃣ Efficient Management of Azure Resources**
 
-**📌 Motivation:**  
+**Motivation:**  
 Agicap's operations spanned multiple regions, requiring a robust and scalable cloud infrastructure. Managing Azure resources manually was becoming increasingly cumbersome and prone to inconsistencies.
 
-**🔧 Approach:**  
+**Approach:**  
 I developed comprehensive **Terraform modules** tailored for Azure, enabling automated deployment and management of resources such as virtual networks, storage accounts, and compute instances. These modules encapsulated best practices, ensuring that deployments were efficient and aligned with organizational standards.
 
 **📈 Results:**  
@@ -44,10 +44,10 @@ I developed comprehensive **Terraform modules** tailored for Azure, enabling aut
 
 ### **2️⃣ Securing Secrets with HashiCorp Vault**
 
-**📌 Motivation:**  
+**Motivation:**  
 Managing sensitive information like API keys, passwords, and certificates securely is critical. Traditional methods were inadequate, posing potential security risks.
 
-**🔧 Approach:**  
+**Approach:**  
 Using Terraform, I integrated **HashiCorp Vault** into our infrastructure. This setup facilitated secure storage, access, and management of secrets. By automating Vault's deployment and configuration, we ensured the highest levels of security.
 
 **📈 Results:**  
@@ -59,10 +59,10 @@ Using Terraform, I integrated **HashiCorp Vault** into our infrastructure. This 
 
 ### **3️⃣ Streamlining User and Application Management with Okta Integration**
 
-**📌 Motivation:**  
+**Motivation:**  
 As Agicap scaled, managing user identities and application access manually was inefficient and posed security challenges.
 
-**🔧 Approach:**  
+**Approach:**  
 I automated the integration of **Okta** using Terraform. This included provisioning user accounts, managing group memberships, and configuring application access policies, all codified for reliability and scalability.
 
 **📈 Results:**  
@@ -74,10 +74,10 @@ I automated the integration of **Okta** using Terraform. This included provision
 
 ### **4️⃣ Optimizing GitHub Organization Management**
 
-**📌 Motivation:**  
+**Motivation:**  
 With numerous repositories and teams, managing GitHub organizations manually was becoming unwieldy and inconsistent.
 
-**🔧 Approach:**  
+**Approach:**  
 Using Terraform, I streamlined the management of **GitHub organization settings and repositories**. This included automating repository creation, configuring access controls, and enforcing policies.
 
 **📈 Results:**  

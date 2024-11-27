@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Projects Archive
 permalink: /projects/
 ---
 
@@ -14,23 +14,20 @@ Welcome to my project archive! Here, you can explore all my blog posts and case 
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
-  ### {{ yearMonth.name }}
-  <ul class="project-list">
-    {% for post in yearMonth.items %}
-      <li>
-        <a href="{{ post.url }}" class="project-link">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+### {{ yearMonth.name }}
+<ul class="project-list">
+  {% for post in yearMonth.items %}
+    <li>
+      <a href="{{ post.url }}" class="project-link">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 {% endfor %}
 
-<style>
-/* Archive Page Styles */
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-}
+---
 
+<style>
+/* Archive Page Styling */
 h1 {
   text-align: center;
   margin-bottom: 1.5rem;
@@ -38,7 +35,7 @@ h1 {
 
 h2, h3 {
   color: #007acc;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .project-list {
