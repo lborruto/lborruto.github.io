@@ -48,9 +48,4 @@ h2, h3 {
   color: #007acc;
   text-decoration: none;
 }
-
-.project-link:hover {
-  text-decoration: underline;
-  color: #005f99;
-}
 </style>
