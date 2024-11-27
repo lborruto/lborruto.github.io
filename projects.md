@@ -25,27 +25,3 @@ Welcome to my project archive! Here, you can explore all my blog posts and case 
 {% endfor %}
 
 ---
-
-<style>
-/* Archive Page Styling */
-h1 {
-  text-align: center;
-  margin-bottom: 1.5rem;
-}
-
-h2, h3 {
-  color: #007acc;
-  margin-top: 1.5rem;
-}
-
-.project-list {
-  margin: 1rem 0 2rem 1.5rem;
-  list-style-type: disc;
-}
-
-.project-link {
-  font-size: 1.1rem;
-  color: #007acc;
-  text-decoration: none;
-}
-</style>
