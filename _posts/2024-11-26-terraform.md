@@ -38,7 +38,7 @@ I developed comprehensive **Terraform modules** tailored for Azure, enabling aut
 **📈 Results:**  
 - **Scalability:** Rapidly provisioned Azure resources across different environments and regions with minimal effort.
 - **Consistency:** Standardized configurations reduced discrepancies and enhanced reliability.
-- **⏱Efficiency:** Significant reduction in deployment times, freeing up the team to focus on core objectives.
+- **Efficiency:** Significant reduction in deployment times, freeing up the team to focus on core objectives.
 
 ---
 

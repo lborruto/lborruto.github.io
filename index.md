@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# 👋 Welcome to My Page
+# Welcome
 
 `luca@sysadmin:~$`
 
@@ -11,7 +11,7 @@ title: Welcome
 
 ## 🧑‍💻 About Me
 
-I am an experienced **IT System Administrator**, **Project Manager**, and **Freelance Consultant**. I specialize in designing, implementing, and managing scalable IT infrastructures using tools like **Terraform** and modern cloud technologies.
+I am an **IT System Administrator**, **Project Manager**, and **Freelance Consultant**. I specialize in designing, implementing, and managing scalable IT infrastructures using tools like **Terraform** and modern cloud technologies.
 
 I bridge the gap between technical solutions and project execution to deliver measurable results for businesses.
 
@@ -54,8 +54,8 @@ You can find all my recent projects in the [Projects Section](/projects/).
 
 ## 🔗 Quick Links
 
-- 📄 [View My CV](/luca_borruto.pdf)  
-- 📬 [Contact Me](/contact/)  
+- [View My CV](/luca_borruto.pdf)  
+- [Contact Me](/contact/)  
 
 ---
 
