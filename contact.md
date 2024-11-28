@@ -43,10 +43,10 @@ I’m always excited to connect with clients, recruiters, or anyone looking to c
 
 <style>
 /* General Styles */
-body {
+/* body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
-}
+} */
 
 h1 {
   text-align: center;
@@ -75,7 +75,7 @@ h1 {
   font-weight: 600;
   margin-bottom: 0.5rem;
   display: inline-block;
-  color: #007acc;
+  /* color: #007acc; */
 }
 
 .contact-form input,
