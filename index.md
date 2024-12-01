@@ -40,9 +40,9 @@ I bridge the gap between technical solutions and project execution to deliver me
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Automation Tools**: Terraform, Ansible
 - **Virtualization**: VMware, Proxmox
-- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Monitoring**: Prometheus, Grafana
 - **Scripting**: Bash, Python, PowerShell
-- **Project Tools**: Jira, Trello, Confluence
+- **Certificate Management**: CA Deployement, SCEP Distribution
 
 ---
 
