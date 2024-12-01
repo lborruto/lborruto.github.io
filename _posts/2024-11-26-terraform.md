@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Infrastructure with Terraform
+title: Infrastructure as code with Terraform
 ---
 
 ![Terraform Ascii](/assets/terraform.png "terraform ascii")
